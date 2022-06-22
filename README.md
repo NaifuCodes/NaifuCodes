@@ -11,7 +11,7 @@ I am a self taught developer! I have been interested in computers for a longgg t
 * 🚀  I'm currently working on [Ichiban Studios](http://ichibanstudios.netlify.app)
 * 🧠  I'm learning Game Development
 * 🤝  I'm open to collaborating on Websites
-* ⚡  I love Juice Wrld <3
+* 9️⃣  I love Juice Wrld <3
 
 <a href="https://www.github.com/naifucodes" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/naifucodes?logo=github&style=for-the-badge&color=0891b2&labelColor=0f172a" /></a><a href="https://www.twitch.tv/ggversed" target="_blank" rel="noreferrer"><img
